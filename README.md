@@ -1,1 +1,1 @@
-Recently Victoir gave a talk on radical pairs, and one particular subject caught my attention. Below I attached a slide describing a radical-pair formation. Here I humor myself by taking a look at how this process could be described in terms of quantum gates.
+Recently Victoire gave a talk on radical pairs, and one particular subject caught my attention. Below I attached a slide describing a radical-pair formation. Here I humor myself by taking a look at how this process could be described in terms of quantum gates.
